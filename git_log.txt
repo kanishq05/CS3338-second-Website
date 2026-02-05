@@ -1,0 +1,45 @@
+commit 20c3854d1c1146fc215743b1ae2daa617a7b1c64
+Merge: 06a8f77 94cbd89
+Author: kanishq05 <143992774+kanishq05@users.noreply.github.com>
+Date:   Thu Feb 5 15:27:52 2026 -0800
+
+    Resolve merge conflict
+
+commit 94cbd8960d7c3ceff4edb0a3cf5df649a0710016
+Author: kanishq05 <143992774+kanishq05@users.noreply.github.com>
+Date:   Thu Feb 5 15:25:22 2026 -0800
+
+    Add favorite game on index-fix
+
+commit 06a8f77723d9d681dfa92ba9dca18c52e91dd7c8
+Author: kanishq05 <143992774+kanishq05@users.noreply.github.com>
+Date:   Thu Feb 5 14:58:16 2026 -0800
+
+    Add favorite food on main
+
+commit 1e8048582c1791cfb1421170d8b443735bc2c174
+Author: kanishq <143992774+kanishq05@users.noreply.github.com>
+Date:   Thu Feb 5 14:45:50 2026 -0800
+
+    Add project description to README.md
+
+commit 27f8c6635e040255271bb55021b621a40897b996
+Merge: 1d2bfc0 73d5406
+Author: kanishq <143992774+kanishq05@users.noreply.github.com>
+Date:   Thu Feb 5 14:39:47 2026 -0800
+
+    Merge pull request #1 from kanishq05/info-fill
+    
+    Filled in name and hobby
+
+commit 73d540670bcf2be87360b46533984c0451b4f917
+Author: kanishq05 <143992774+kanishq05@users.noreply.github.com>
+Date:   Thu Feb 5 12:58:19 2026 -0800
+
+    Filled in name and hobby
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
